@@ -9,7 +9,7 @@ public class HibernateUtil {
 
     private static final SessionFactory sessionFactory;
     private static final ServiceRegistry serviceRegistry;
-    //a new comment
+    //a new comment 2
     static {
         Configuration conf = new Configuration();
         conf.configure();
